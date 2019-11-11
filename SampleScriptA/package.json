@@ -1,0 +1,9 @@
+{
+  "name": "sample-package-a",
+  "version": "0.0.1",
+  "displayName": "SamplePackageA",
+  "unity": "2019.2",
+  "description": "Sample package A",
+  "dependencies": {
+  }
+}
